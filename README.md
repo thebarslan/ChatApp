@@ -7,7 +7,7 @@ I used google firestore to store the message and user data.
 I used google firebase hosting service to host the project for free.
 
 
-## In this screen shot you can see a stored message example:
+## In this screenshot you can see a stored message example:
 ![Screenshot_1](https://user-images.githubusercontent.com/69631182/180084752-dad397fa-dfee-48bd-91af-2c1c493e7da6.png)
 
 ## You can sign in by google easily and start chatting with other users.
